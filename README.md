@@ -30,7 +30,7 @@ To add a feed to an existing feed:
 4. Create a PR with the new package feed files (Packages, Packages.gz, and Packages.stamps).
 
 ## Adding a New Feed
-If you want to create a new feed (maybe to have a feed specific for a subset of packages), create a new folder under [/package-feeds](/package-feeds/) and use to the [Package Feed Updater Utility](/package-feed-updater/package-feed-updater/readme.md) to create a new feed.
+If you want to create a new feed (maybe to have a feed specific for a subset of packages), create a new folder under [/package-feeds](/package-feeds/) and use the [Package Feed Updater Utility](/package-feed-updater/package-feed-updater/readme.md) to create a new feed.
 
 Recommendation is to add all new releases to the ['all' package feed](/package-feeds/all/).
 

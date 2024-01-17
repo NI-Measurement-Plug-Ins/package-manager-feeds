@@ -5,7 +5,7 @@ This repository contains NI Package Manager feeds for the plug-ins contained in 
 # Hosted Feeds
 | Feed Name                                                  | NI Package Manger Feed URL                                   |
 | ---------------------------------------------------------- | ------------------------------------------------------------ |
-| [all](/package-feeds/all/) | https://raw.githubusercontent.com/NISystemsEngineering/package-repo/master/rfmx-signal-creator/Packages |
+| [all](/package-feeds/all/) | https://raw.githubusercontent.com/NI-MeasurementLink-Plug-Ins/package-manager-feeds/main/package-feeds/all/Packages |
 
 # Using Feeds in NI Package Manager
 Once you subscribe to a feed, you will automatically gets updates as new releases are added to the feed.

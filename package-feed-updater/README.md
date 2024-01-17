@@ -8,6 +8,10 @@ The easiest way to use the utility is with the compiled exe stored in teh repo r
 ```
 In this case, the feed package located in C:\builds\feed_automation will be updated.
 
+To get the URL for a release hosted on GitHub, open a browser, go to the release asset and right-click to copy the link.
+
+![](/_img/copy_release_link.png)
+
 # Code
 Use Poetry to setup the development environment. If you do not want to use Poetry, check out the dependencies in pyproject.toml.
 

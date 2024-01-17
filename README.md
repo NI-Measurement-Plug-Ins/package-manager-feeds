@@ -9,7 +9,7 @@ This repository contains NI Package Manager feeds for the plug-ins contained in 
 
 # Using Feeds in NI Package Manager
 Once you subscribe to a feed, you will automatically gets updates as new releases are added to the feed.
-1. Copy the NI Package Manager Feed URL from the [Hosted Feeds table](#hosted-feeds).
+1. Copy the NI Package Manager Feed URL from the [Hosted Feeds table](#hosted-feeds). This URL is the feed path.
 2. [Add the new feed in NIPM](https://www.ni.com/docs/en-US/bundle/package-manager/page/install-packages-from-feed.html). *Recommendation: Name the feed in NI Package Manager with something you will remember such as "GitHub MeasLink". Keep the name short because NI Package Manager does not keep a lot of visible space to display the name later.*
 
 # Installing Packages from the Feed

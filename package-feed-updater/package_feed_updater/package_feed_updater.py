@@ -25,9 +25,7 @@ def add_package(feed_path, pkg_local_path):
     subprocess.run(['C:\\Program Files\\National Instruments\\NI Package Manager\\nipkg.exe', 'feed-add-pkg', feed_path, pkg_local_path])
 
 def update_feed_with_url(feed_path, pkg_local_path, pkg_url):
-    package_name = os.path.basename(pkg_local_path)
-    package_name = package_name.split('.')[0]
-    package_name = package_name.lower()
+    package_name = os.path.basename(pkg_local_path)    
 
     # Update the Packages file with URL
     with open(os.path.join(feed_path, 'Packages'), 'r') as f:

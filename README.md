@@ -26,11 +26,11 @@ After creating a new release, you can add that release to a feed.
 To add a package to an existing feed:
 1. Download the NI Package that you want to add to the feed to your development system.
 2. Clone this repository and create a branch.
-3. Use the [Package Feed Updater Utility](/package-feed-updater/package-feed-updater/readme.md) to add new package.
+3. Use the [Package Feed Updater Utility](https://github.com/NI-MeasurementLink-Plug-Ins/package-manager-feeds/releases) to add new package.
 4. Create a PR with the new package feed files (Packages, Packages.gz, and Packages.stamps).
 
 ## Adding a New Feed
-If you want to create a new feed (maybe to have a feed specific for a subset of packages), create a new folder under [/package-feeds](/package-feeds/) and use the [Package Feed Updater Utility](/package-feed-updater/package-feed-updater/readme.md) to create a new feed. Update the [Hosted Feeds table](#hosted-feeds) with the new feed.
+If you want to create a new feed (maybe to have a feed specific for a subset of packages), create a new folder under [/package-feeds](/package-feeds/) and use the [Package Feed Updater Utility](https://github.com/NI-MeasurementLink-Plug-Ins/package-manager-feeds/releases) to create a new feed. Update the [Hosted Feeds table](#hosted-feeds) with the new feed.
 
 Recommendation is to add all new releases to the ['all' package feed](/package-feeds/all/).
 

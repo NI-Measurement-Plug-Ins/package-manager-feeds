@@ -54,3 +54,23 @@ UserVisible: yes
 Version: 1.0.0.10
 VisibleForRuntimeDeployment: no
 
+Architecture: windows_x64
+CompatibilityVersion: 240000
+Depends: ni-labview-2023-runtime-engine (>= 23.3.2.49153-0+f1), ni-switchexecutive-full-common (>= 23.8.0.49182-0+f30)
+Description: Basic Switch Executive Controller
+  Small panel plug-in for InstrumentStudio that enables basic control of Switch Executive within InstrumentStudio.
+DisplayName: Basic Switch Executive Controller
+Filename: https://github.com/NI-MeasurementLink-Plug-Ins/basic-switchexec-controller/releases/download/v1.0.0/basic-switch-executive-controller_1.0.0-0_windows_x64.nipkg
+Homepage: https://github.com/NI-MeasurementLink-Plug-Ins/basic-switchexec-controller
+Installed-Size: 660
+MD5sum: 4088d79f935f639d404f8a1de1e43677
+Maintainer: NI <>
+Package: basic-switch-executive-controller
+Plugin: file
+Priority: standard
+Recommends: ni-certificates
+Section: Add-Ons
+Size: 657982
+UserVisible: yes
+Version: 1.0.0-0
+

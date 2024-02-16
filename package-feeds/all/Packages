@@ -74,3 +74,22 @@ Size: 657982
 UserVisible: yes
 Version: 1.0.0-0
 
+Architecture: windows_x64
+Built-Using: nipkg
+CompatibilityVersion: 240000
+Description: community-classdamplifier
+  Measurements for Class D amplifiers using MeasurementLink
+DisplayName: Class D Amplifier MeasurementLink Plug-In
+Filename: https://github.com/NI-MeasurementLink-Plug-Ins/class-d-amplifier/releases/download/v1.0.0.11/community-classdamplifier_1.0.0.11_windows_x64.nipkg
+Homepage: https://github.com/NI-MeasurementLink-Plug-Ins/class-d-amplifier
+MD5sum: 81e188d87d686b036879d5993cbca06c
+Maintainer: GitHub Community <email@mycompany.com>
+Package: community-classdamplifier
+Plugin: file
+Section: Add-Ons
+Size: 69804130
+StoreProduct: yes
+UserVisible: yes
+Version: 1.0.0.11
+VisibleForRuntimeDeployment: no
+

@@ -132,3 +132,23 @@ UserVisible: yes
 Version: 1.0.0.20
 VisibleForRuntimeDeployment: no
 
+Architecture: windows_x64
+Built-Using: nipkg
+CompatibilityVersion: 240000
+Depends: ni-labview-2021-runtime-engine (>=21.1.2.49154-0+f2)
+Description: community-classdamplifier
+  Measurements for Class D amplifiers using MeasurementLink
+DisplayName: Class D Amplifier MeasurementLink Plug-In
+Filename: https://github.com/NI-MeasurementLink-Plug-Ins/class-d-amplifier/releases/download/v1.0.0.22/community-classdamplifier_1.0.0.22_windows_x64.nipkg
+Homepage: https://github.com/NI-MeasurementLink-Plug-Ins/class-d-amplifier
+MD5sum: a155f264cbcf42762a835b110ac97cdd
+Maintainer: GitHub Community <email@mycompany.com>
+Package: community-classdamplifier
+Plugin: file
+Section: Add-Ons
+Size: 173987590
+StoreProduct: yes
+UserVisible: yes
+Version: 1.0.0.22
+VisibleForRuntimeDeployment: no
+

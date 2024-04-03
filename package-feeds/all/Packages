@@ -152,3 +152,25 @@ UserVisible: yes
 Version: 1.0.0.22
 VisibleForRuntimeDeployment: no
 
+Architecture: windows_x64
+Built-Using: nipkg
+CompatibilityVersion: 240000
+Depends: ni-labview-2021-runtime-engine (>=21.1.2.49154-0+f2)
+Description: community-audio-adc-labview
+  Measurements for Audio ADC using MeasurementLink
+DisplayName: Audio ADC MeasurementLink Plug-In (LabVIEW)
+Filename: https://github.com/NI-MeasurementLink-Plug-Ins/audio-adc-labview/releases/download/v1.0.0.22/community-audio-adc-labview_1.0.0.22_windows_x64.nipkg
+Homepage: https://github.com/NI-MeasurementLink-Plug-Ins/audio-adc-labview
+MD5sum: 0deab2778ed0cc131e01b44244ab9e51
+Maintainer: Github Community <email@mycompany.com>
+Package: community-audio-adc-labview
+Plugin: file
+ReleaseNotes: 
+  Supports AC and Frequency Response Measurements
+Section: Add-Ons
+Size: 48240406
+StoreProduct: yes
+UserVisible: yes
+Version: 1.0.0.22
+VisibleForRuntimeDeployment: no
+

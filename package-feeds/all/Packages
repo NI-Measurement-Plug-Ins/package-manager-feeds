@@ -174,3 +174,25 @@ UserVisible: yes
 Version: 1.0.0.22
 VisibleForRuntimeDeployment: no
 
+Architecture: windows_x64
+Built-Using: nipkg
+CompatibilityVersion: 240000
+Depends: ni-labview-2021-runtime-engine (>=21.1.2.49154-0+f2)
+Description: community-adc-measurements
+  Measurements for the ADC
+DisplayName: adc-measurements
+Filename: https://github.com/NI-MeasurementLink-Plug-Ins/adc/releases/download/v1.0.0.4/community-adc-measurements_1.0.0.4_windows_x64.nipkg
+Homepage: https://github.com/NI-MeasurementLink-Plug-Ins/adc
+MD5sum: 00e310594e2c1860e9b8ef5615e2d58c
+Maintainer: GitHub Community <email@mycompany.com>
+Package: community-adc-measurements
+Plugin: file
+ReleaseNotes: 
+  Supports AC, Linearity, Channel to Channel Isolation, Gain and Offset and Full-Scale Error
+Section: Add-Ons
+Size: 134258172
+StoreProduct: yes
+UserVisible: yes
+Version: 1.0.0.4
+VisibleForRuntimeDeployment: no
+

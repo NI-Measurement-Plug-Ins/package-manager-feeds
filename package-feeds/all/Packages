@@ -304,3 +304,24 @@ UserVisible: yes
 Version: 1.0.0.3
 VisibleForRuntimeDeployment: no
 
+Architecture: windows_x64
+Built-Using: nipkg
+CompatibilityVersion: 240300
+Description: community-pmic-python
+  Measurements for PMIC using MeasurementLink
+DisplayName: PMIC MeasurementLink Plug-In (Python)
+Filename: https://github.com/NI-MeasurementLink-Plug-Ins/pmic-python/releases/download/v1.0.0.0/community-pmic-python_1.0.0.0_windows_x64.nipkg
+Homepage: https://github.com/NI-MeasurementLink-Plug-Ins/pmic-python
+MD5sum: bf835dfa812c7fb1b01cef0644319f69
+Maintainer: GitHub Community <email@mycompany.com>
+Package: community-pmic-python
+Plugin: file
+ReleaseNotes: 
+  Supports Output Voltage Accuracy and Ripple Measurements
+Section: Add-Ons
+Size: 57296630
+StoreProduct: yes
+UserVisible: yes
+Version: 1.0.0.0
+VisibleForRuntimeDeployment: no
+

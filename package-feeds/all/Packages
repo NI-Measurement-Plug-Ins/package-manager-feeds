@@ -346,3 +346,22 @@ UserVisible: yes
 Version: 1.0.0.1
 VisibleForRuntimeDeployment: no
 
+Architecture: windows_x64
+Built-Using: nipkg
+CompatibilityVersion: 240300
+Description: ni-pcba-measurements
+  This includes a collection of Measurement Services for common PCBA Functional Test.
+DisplayName: PCB Assembly Test Measurements
+Filename: https://github.com/NI-MeasurementLink-Plug-Ins/pcba-fct/releases/download/v1.0.0.0/ni-pcba-measurements_1.0.0.0_windows_x64.nipkg
+Homepage: https://github.com/NI-MeasurementLink-Plug-Ins/pcba-fct
+MD5sum: c0d312115e4000478bb3625202a7716a
+Maintainer: GitHub Community <nathan.murphy@ni.com>
+Package: ni-pcba-measurements
+Plugin: file
+Section: Add-Ons
+Size: 124807016
+StoreProduct: no
+UserVisible: yes
+Version: 1.0.0.0
+VisibleForRuntimeDeployment: no
+

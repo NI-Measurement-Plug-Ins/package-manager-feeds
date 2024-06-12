@@ -404,3 +404,22 @@ UserVisible: yes
 Version: 1.0.0.1
 VisibleForRuntimeDeployment: no
 
+Architecture: windows_x64
+Built-Using: nipkg
+CompatibilityVersion: 240000
+Description: mycompany-myproduct
+  Single tone and frequency sweep measurements for audio dac
+DisplayName: audio-dac
+Filename: https://github.com/NI-MeasurementLink-Plug-Ins/audio-dac/releases/download/v1.0.0.3/community-audio-dac_1.0.0.3_windows_x64.nipkg
+Homepage: https://github.com/NI-MeasurementLink-Plug-Ins/audio-dac
+MD5sum: c75a13e31a4efb908b0cd0686c61c975
+Maintainer: Github Community <email@mycompany.com>
+Package: community-audio-dac
+Plugin: file
+Section: Add-Ons
+Size: 68848598
+StoreProduct: yes
+UserVisible: yes
+Version: 1.0.0.3
+VisibleForRuntimeDeployment: no
+

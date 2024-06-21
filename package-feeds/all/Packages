@@ -423,3 +423,22 @@ UserVisible: yes
 Version: 1.0.0.3
 VisibleForRuntimeDeployment: no
 
+Architecture: windows_x64
+Built-Using: nipkg
+CompatibilityVersion: 240000
+Description: mycompany-myproduct
+  Linearity INL-DNL measurements for DAC
+DisplayName: dac
+Filename: https://github.com/NI-MeasurementLink-Plug-Ins/dac/releases/download/v1.0.0.1/community-dac_1.0.0.1_windows_x64.nipkgkg
+Homepage: https://github.com/NI-MeasurementLink-Plug-Ins/dac
+MD5sum: 80e8d34da2b4884ad2e141c942d6023f
+Maintainer: Github Community <email@mycompany.com>
+Package: community-dac
+Plugin: file
+Section: Add-Ons
+Size: 18159936
+StoreProduct: yes
+UserVisible: yes
+Version: 1.0.0.1
+VisibleForRuntimeDeployment: no
+

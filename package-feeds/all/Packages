@@ -464,3 +464,25 @@ UserVisible: yes
 Version: 1.0.0.4
 VisibleForRuntimeDeployment: no
 
+Architecture: windows_x64
+Built-Using: nipkg
+CompatibilityVersion: 240300
+Depends: ni-labview-2021-runtime-engine (>=21.1.2.49154-0+f2)
+Description: community-pmic-python
+  Measurements for PMIC using MeasurementLink
+DisplayName: PMIC MeasurementLink Plug-In (Python)
+Filename: https://github.com/NI-MeasurementLink-Plug-Ins/pmic-python/releases/download/v1.0.0.2/community-pmic-python_1.0.0.2_windows_x64.nipkg
+Homepage: https://github.com/NI-MeasurementLink-Plug-Ins/pmic-python
+MD5sum: 276a9dfa992fdbd1ac0bfa151e130bb6
+Maintainer: GitHub Community <email@mycompany.com>
+Package: community-pmic-python
+Plugin: file
+ReleaseNotes: 
+  Supports Efficiency and Load Regulation, Line Regulation, Output Voltage Accuracy and Ripple Measurements
+Section: Add-Ons
+Size: 112410100
+StoreProduct: yes
+UserVisible: yes
+Version: 1.0.0.2
+VisibleForRuntimeDeployment: no
+

@@ -24,7 +24,7 @@
             "type": "python",
             "request": "launch",
             "program": "${file}",
-            "args": ["--feed-folder-path","C:\\Users\\SEBUADV\\Desktop\\Jack\\feed_relink","--old-base-url","https://github.com/NI-MeasurementLink-Plug-Ins","--new-base-url","https://github.com/NI-JacksCool-Software"],
+            "args": ["--feed-folder-path","C:\\dev\\package-manager-feeds\\package-feeds\\all","--old-base-url","https://github.com/NI-MeasurementLink-Plug-Ins","--new-base-url","https://github.com/NI-Measurement-Plug-Ins"],
             "console": "integratedTerminal",
             "justMyCode": true
         }

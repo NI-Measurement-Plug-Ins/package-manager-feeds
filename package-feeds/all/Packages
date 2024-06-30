@@ -4,7 +4,7 @@ CompatibilityVersion: 230800
 Description: community-classdamplifier
   Measurements for Class D amplifiers using MeasurementLink
 DisplayName: Class D Amplifier MeasurementLink Plug-In
-Filename: https://github.com/NI-MeasurementLink-Plug-Ins/class-d-amplifier/releases/download/v1.0.0.3/community-classdamplifier_1.0.0.3_windows_x64.nipkg
+Filename: https://github.com/NI-Measurement-Plug-Ins/class-d-amplifier/releases/download/v1.0.0.3/community-classdamplifier_1.0.0.3_windows_x64.nipkg
 MD5sum: 807857cbba97ebe9734669aa9dbedcb4
 Maintainer: Github Community <email@mycompany.com>
 Package: community-classdamplifier
@@ -22,8 +22,8 @@ CompatibilityVersion: 240000
 Description: community-classdamplifier
   Measurements for Class D amplifiers using MeasurementLink
 DisplayName: Class D Amplifier MeasurementLink Plug-In
-Filename: https://github.com/NI-MeasurementLink-Plug-Ins/class-d-amplifier/releases/download/v1.0.0.6/community-classdamplifier_1.0.0.6_windows_x64.nipkg
-Homepage: https://github.com/NI-MeasurementLink-Plug-Ins/class-d-amplifier
+Filename: https://github.com/NI-Measurement-Plug-Ins/class-d-amplifier/releases/download/v1.0.0.6/community-classdamplifier_1.0.0.6_windows_x64.nipkg
+Homepage: https://github.com/NI-Measurement-Plug-Ins/class-d-amplifier
 MD5sum: 790fb850802b2d9bb67fc4e7a3411048
 Maintainer: GitHub Community <email@mycompany.com>
 Package: community-classdamplifier
@@ -41,8 +41,8 @@ CompatibilityVersion: 240000
 Description: community-classdamplifier
   Measurements for Class D amplifiers using MeasurementLink
 DisplayName: Class D Amplifier MeasurementLink Plug-In
-Filename: https://github.com/NI-MeasurementLink-Plug-Ins/class-d-amplifier/releases/download/v1.0.0.10/community-classdamplifier_1.0.0.10_windows_x64.nipkg
-Homepage: https://github.com/NI-MeasurementLink-Plug-Ins/class-d-amplifier
+Filename: https://github.com/NI-Measurement-Plug-Ins/class-d-amplifier/releases/download/v1.0.0.10/community-classdamplifier_1.0.0.10_windows_x64.nipkg
+Homepage: https://github.com/NI-Measurement-Plug-Ins/class-d-amplifier
 MD5sum: 54cb028bb4e987cf0f3388dc243d4c78
 Maintainer: GitHub Community <email@mycompany.com>
 Package: community-classdamplifier
@@ -60,8 +60,8 @@ Depends: ni-labview-2023-runtime-engine (>= 23.3.2.49153-0+f1), ni-switchexecuti
 Description: Basic Switch Executive Controller
   Small panel plug-in for InstrumentStudio that enables basic control of Switch Executive within InstrumentStudio.
 DisplayName: Basic Switch Executive Controller
-Filename: https://github.com/NI-MeasurementLink-Plug-Ins/basic-switchexec-controller/releases/download/v1.0.0/basic-switch-executive-controller_1.0.0-0_windows_x64.nipkg
-Homepage: https://github.com/NI-MeasurementLink-Plug-Ins/basic-switchexec-controller
+Filename: https://github.com/NI-Measurement-Plug-Ins/basic-switchexec-controller/releases/download/v1.0.0/basic-switch-executive-controller_1.0.0-0_windows_x64.nipkg
+Homepage: https://github.com/NI-Measurement-Plug-Ins/basic-switchexec-controller
 Installed-Size: 660
 MD5sum: 4088d79f935f639d404f8a1de1e43677
 Maintainer: NI <>
@@ -80,8 +80,8 @@ CompatibilityVersion: 240000
 Description: community-classdamplifier
   Measurements for Class D amplifiers using MeasurementLink
 DisplayName: Class D Amplifier MeasurementLink Plug-In
-Filename: https://github.com/NI-MeasurementLink-Plug-Ins/class-d-amplifier/releases/download/v1.0.0.11/community-classdamplifier_1.0.0.11_windows_x64.nipkg
-Homepage: https://github.com/NI-MeasurementLink-Plug-Ins/class-d-amplifier
+Filename: https://github.com/NI-Measurement-Plug-Ins/class-d-amplifier/releases/download/v1.0.0.11/community-classdamplifier_1.0.0.11_windows_x64.nipkg
+Homepage: https://github.com/NI-Measurement-Plug-Ins/class-d-amplifier
 MD5sum: 81e188d87d686b036879d5993cbca06c
 Maintainer: GitHub Community <email@mycompany.com>
 Package: community-classdamplifier
@@ -99,8 +99,8 @@ CompatibilityVersion: 240000
 Description: community-classdamplifier
   Measurements for Class D amplifiers using MeasurementLink
 DisplayName: Class D Amplifier MeasurementLink Plug-In
-Filename: https://github.com/NI-MeasurementLink-Plug-Ins/class-d-amplifier/releases/download/v1.0.0.12/community-classdamplifier_1.0.0.12_windows_x64.nipkg
-Homepage: https://github.com/NI-MeasurementLink-Plug-Ins/class-d-amplifier
+Filename: https://github.com/NI-Measurement-Plug-Ins/class-d-amplifier/releases/download/v1.0.0.12/community-classdamplifier_1.0.0.12_windows_x64.nipkg
+Homepage: https://github.com/NI-Measurement-Plug-Ins/class-d-amplifier
 MD5sum: 96a0dba10f5107adc75652e0c1aa1f37
 Maintainer: GitHub Community <email@mycompany.com>
 Package: community-classdamplifier
@@ -119,8 +119,8 @@ Depends: ni-labview-2021-runtime-engine (>=21.1.2.49154-0+f2)
 Description: community-classdamplifier
   Measurements for Class D amplifiers using MeasurementLink
 DisplayName: Class D Amplifier MeasurementLink Plug-In
-Filename: https://github.com/NI-MeasurementLink-Plug-Ins/class-d-amplifier/releases/download/v1.0.0.20/community-classdamplifier_1.0.0.20_windows_x64.nipkg
-Homepage: https://github.com/NI-MeasurementLink-Plug-Ins/class-d-amplifier
+Filename: https://github.com/NI-Measurement-Plug-Ins/class-d-amplifier/releases/download/v1.0.0.20/community-classdamplifier_1.0.0.20_windows_x64.nipkg
+Homepage: https://github.com/NI-Measurement-Plug-Ins/class-d-amplifier
 MD5sum: ce0057cd4d4ea9f71d4dfa629163ff3b
 Maintainer: GitHub Community <email@mycompany.com>
 Package: community-classdamplifier
@@ -139,8 +139,8 @@ Depends: ni-labview-2021-runtime-engine (>=21.1.2.49154-0+f2)
 Description: community-classdamplifier
   Measurements for Class D amplifiers using MeasurementLink
 DisplayName: Class D Amplifier MeasurementLink Plug-In
-Filename: https://github.com/NI-MeasurementLink-Plug-Ins/class-d-amplifier/releases/download/v1.0.0.22/community-classdamplifier_1.0.0.22_windows_x64.nipkg
-Homepage: https://github.com/NI-MeasurementLink-Plug-Ins/class-d-amplifier
+Filename: https://github.com/NI-Measurement-Plug-Ins/class-d-amplifier/releases/download/v1.0.0.22/community-classdamplifier_1.0.0.22_windows_x64.nipkg
+Homepage: https://github.com/NI-Measurement-Plug-Ins/class-d-amplifier
 MD5sum: a155f264cbcf42762a835b110ac97cdd
 Maintainer: GitHub Community <email@mycompany.com>
 Package: community-classdamplifier
@@ -159,8 +159,8 @@ Depends: ni-labview-2021-runtime-engine (>=21.1.2.49154-0+f2)
 Description: community-audio-adc-labview
   Measurements for Audio ADC using MeasurementLink
 DisplayName: Audio ADC MeasurementLink Plug-In (LabVIEW)
-Filename: https://github.com/NI-MeasurementLink-Plug-Ins/audio-adc-labview/releases/download/v1.0.0.22/community-audio-adc-labview_1.0.0.22_windows_x64.nipkg
-Homepage: https://github.com/NI-MeasurementLink-Plug-Ins/audio-adc-labview
+Filename: https://github.com/NI-Measurement-Plug-Ins/audio-adc-labview/releases/download/v1.0.0.22/community-audio-adc-labview_1.0.0.22_windows_x64.nipkg
+Homepage: https://github.com/NI-Measurement-Plug-Ins/audio-adc-labview
 MD5sum: 0deab2778ed0cc131e01b44244ab9e51
 Maintainer: Github Community <email@mycompany.com>
 Package: community-audio-adc-labview
@@ -181,8 +181,8 @@ Depends: ni-labview-2021-runtime-engine (>=21.1.2.49154-0+f2)
 Description: community-adc-measurements
   Measurements for the ADC
 DisplayName: adc-measurements
-Filename: https://github.com/NI-MeasurementLink-Plug-Ins/adc/releases/download/v1.0.0.4/community-adc-measurements_1.0.0.4_windows_x64.nipkg
-Homepage: https://github.com/NI-MeasurementLink-Plug-Ins/adc
+Filename: https://github.com/NI-Measurement-Plug-Ins/adc/releases/download/v1.0.0.4/community-adc-measurements_1.0.0.4_windows_x64.nipkg
+Homepage: https://github.com/NI-Measurement-Plug-Ins/adc
 MD5sum: 00e310594e2c1860e9b8ef5615e2d58c
 Maintainer: GitHub Community <email@mycompany.com>
 Package: community-adc-measurements
@@ -203,8 +203,8 @@ Depends: ni-labview-2021-runtime-engine (>=21.1.4.49152-0+f0)
 Description: community-audio-adc-labview
   Measurements for Audio ADC using MeasurementLink
 DisplayName: Audio ADC MeasurementLink Plug-In (LabVIEW)
-Filename: https://github.com/NI-MeasurementLink-Plug-Ins/audio-adc-labview/releases/download/v1.0.0.23/community-audio-adc-labview_1.0.0.23_windows_x64.nipkg
-Homepage: https://github.com/NI-MeasurementLink-Plug-Ins/audio-adc-labview
+Filename: https://github.com/NI-Measurement-Plug-Ins/audio-adc-labview/releases/download/v1.0.0.23/community-audio-adc-labview_1.0.0.23_windows_x64.nipkg
+Homepage: https://github.com/NI-Measurement-Plug-Ins/audio-adc-labview
 MD5sum: 73e7d07a8ea71f9dc3cd57fd4d617287
 Maintainer: Github Community <email@mycompany.com>
 Package: community-audio-adc-labview
@@ -225,8 +225,8 @@ Depends: ni-labview-2021-runtime-engine (>=21.1.2.49154-0+f2)
 Description: community-classdamplifier
   Measurements for Class D amplifiers using MeasurementLink
 DisplayName: Class D Amplifier MeasurementLink Plug-In
-Filename: https://github.com/NI-MeasurementLink-Plug-Ins/class-d-amplifier/releases/download/v1.0.0.23/community-classdamplifier_1.0.0.23_windows_x64.nipkg
-Homepage: https://github.com/NI-MeasurementLink-Plug-Ins/class-d-amplifier
+Filename: https://github.com/NI-Measurement-Plug-Ins/class-d-amplifier/releases/download/v1.0.0.23/community-classdamplifier_1.0.0.23_windows_x64.nipkg
+Homepage: https://github.com/NI-Measurement-Plug-Ins/class-d-amplifier
 MD5sum: 9a74f3b29761e8157994f9bb5a082734
 Maintainer: GitHub Community <email@mycompany.com>
 Package: community-classdamplifier
@@ -245,8 +245,8 @@ Depends: ni-labview-2021-runtime-engine (>=21.1.2.49154-0+f2)
 Description: community-pmic-labview
   Measurements for PMIC using MeasurementLink
 DisplayName: PMIC MeasurementLink Plug-In (LabVIEW)
-Filename: https://github.com/NI-MeasurementLink-Plug-Ins/pmic-labview/releases/download/v1.0.0.2/community-pmic-labview_1.0.0.2_windows_x64.nipkg
-Homepage: https://github.com/NI-MeasurementLink-Plug-Ins/pmic-labview
+Filename: https://github.com/NI-Measurement-Plug-Ins/pmic-labview/releases/download/v1.0.0.2/community-pmic-labview_1.0.0.2_windows_x64.nipkg
+Homepage: https://github.com/NI-Measurement-Plug-Ins/pmic-labview
 MD5sum: 56403850ef54f0880395a23dc5455388
 Maintainer: GitHub Community <email@mycompany.com>
 Package: community-pmic-labview
@@ -267,8 +267,8 @@ Depends: ni-labview-2021-runtime-engine (>=21.1.2.49154-0+f2)
 Description: community-pmic-labview
   Measurements for PMIC using MeasurementLink
 DisplayName: PMIC MeasurementLink Plug-In (LabVIEW)
-Filename: https://github.com/NI-MeasurementLink-Plug-Ins/pmic-labview/releases/download/v1.0.0.3/community-pmic-labview_1.0.0.3_windows_x64.nipkg
-Homepage: https://github.com/NI-MeasurementLink-Plug-Ins/pmic-labview
+Filename: https://github.com/NI-Measurement-Plug-Ins/pmic-labview/releases/download/v1.0.0.3/community-pmic-labview_1.0.0.3_windows_x64.nipkg
+Homepage: https://github.com/NI-Measurement-Plug-Ins/pmic-labview
 MD5sum: e2f0f526999c61b5c2e4abbe694f6c47
 Maintainer: GitHub Community <email@mycompany.com>
 Package: community-pmic-labview
@@ -288,8 +288,8 @@ CompatibilityVersion: 240300
 Description: community-pmic-python
   Measurements for PMIC using MeasurementLink
 DisplayName: PMIC MeasurementLink Plug-In (Python)
-Filename: https://github.com/NI-MeasurementLink-Plug-Ins/pmic-python/releases/download/v1.0.0.0/community-pmic-python_1.0.0.0_windows_x64.nipkg
-Homepage: https://github.com/NI-MeasurementLink-Plug-Ins/pmic-python
+Filename: https://github.com/NI-Measurement-Plug-Ins/pmic-python/releases/download/v1.0.0.0/community-pmic-python_1.0.0.0_windows_x64.nipkg
+Homepage: https://github.com/NI-Measurement-Plug-Ins/pmic-python
 MD5sum: bf835dfa812c7fb1b01cef0644319f69
 Maintainer: GitHub Community <email@mycompany.com>
 Package: community-pmic-python
@@ -309,8 +309,8 @@ CompatibilityVersion: 240300
 Description: community-pmic-python
   Measurements for PMIC using MeasurementLink
 DisplayName: PMIC MeasurementLink Plug-In (Python)
-Filename: https://github.com/NI-MeasurementLink-Plug-Ins/pmic-python/releases/download/v1.0.0.1/community-pmic-python_1.0.0.1_windows_x64.nipkg
-Homepage: https://github.com/NI-MeasurementLink-Plug-Ins/pmic-python
+Filename: https://github.com/NI-Measurement-Plug-Ins/pmic-python/releases/download/v1.0.0.1/community-pmic-python_1.0.0.1_windows_x64.nipkg
+Homepage: https://github.com/NI-Measurement-Plug-Ins/pmic-python
 MD5sum: 6593a1383fa9d0781de6bdf041dfd520
 Maintainer: GitHub Community <email@mycompany.com>
 Package: community-pmic-python
@@ -330,8 +330,8 @@ CompatibilityVersion: 240300
 Description: ni-pcba-measurements
   This includes a collection of Measurement Services for common PCBA Functional Test.
 DisplayName: PCB Assembly Test Measurements
-Filename: https://github.com/NI-MeasurementLink-Plug-Ins/pcba-fct/releases/download/v1.0.0.0/ni-pcba-measurements_1.0.0.0_windows_x64.nipkg
-Homepage: https://github.com/NI-MeasurementLink-Plug-Ins/pcba-fct
+Filename: https://github.com/NI-Measurement-Plug-Ins/pcba-fct/releases/download/v1.0.0.0/ni-pcba-measurements_1.0.0.0_windows_x64.nipkg
+Homepage: https://github.com/NI-Measurement-Plug-Ins/pcba-fct
 MD5sum: c0d312115e4000478bb3625202a7716a
 Maintainer: GitHub Community <nathan.murphy@ni.com>
 Package: ni-pcba-measurements
@@ -350,8 +350,8 @@ Depends: ni-labview-2021-runtime-engine (>=21.1.2.49154-0+f2)
 Description: community-classdamplifier
   Measurements for Class D amplifiers using MeasurementLink
 DisplayName: Class D Amplifier MeasurementLink Plug-In
-Filename: https://github.com/NI-MeasurementLink-Plug-Ins/class-d-amplifier/releases/download/v1.0.0.25/community-classdamplifier_1.0.0.25_windows_x64.nipkg
-Homepage: https://github.com/NI-MeasurementLink-Plug-Ins/class-d-amplifier
+Filename: https://github.com/NI-Measurement-Plug-Ins/class-d-amplifier/releases/download/v1.0.0.25/community-classdamplifier_1.0.0.25_windows_x64.nipkg
+Homepage: https://github.com/NI-Measurement-Plug-Ins/class-d-amplifier
 MD5sum: f43199b08313663dfb84446e6935b00c
 Maintainer: GitHub Community <email@mycompany.com>
 Package: community-classdamplifier
@@ -370,8 +370,8 @@ Depends: ni-labview-2021-runtime-engine (>=21.1.2.49154-0+f2)
 Description: community-audio-adc-labview
   Measurements for Audio ADC using MeasurementLink
 DisplayName: Audio ADC MeasurementLink Plug-In (LabVIEW)
-Filename: https://github.com/NI-MeasurementLink-Plug-Ins/audio-adc-labview/releases/download/v1.0.0.24/community-audio-adc-labview_1.0.0.24_windows_x64.nipkg
-Homepage: https://github.com/NI-MeasurementLink-Plug-Ins/audio-adc-labview
+Filename: https://github.com/NI-Measurement-Plug-Ins/audio-adc-labview/releases/download/v1.0.0.24/community-audio-adc-labview_1.0.0.24_windows_x64.nipkg
+Homepage: https://github.com/NI-Measurement-Plug-Ins/audio-adc-labview
 MD5sum: e934ed067bfae7ed644a74fbb5a3a08a
 Maintainer: Github Community <email@mycompany.com>
 Package: community-audio-adc-labview
@@ -391,8 +391,8 @@ CompatibilityVersion: 240000
 Description: mycompany-myproduct
   Single tone and frequency sweep measurements for audio dac
 DisplayName: audio-dac
-Filename: https://github.com/NI-MeasurementLink-Plug-Ins/audio-dac/releases/download/v1.0.0.1/community-audio-dac_1.0.0.1_windows_x64.nipkg
-Homepage: https://github.com/NI-MeasurementLink-Plug-Ins/audio-dac
+Filename: https://github.com/NI-Measurement-Plug-Ins/audio-dac/releases/download/v1.0.0.1/community-audio-dac_1.0.0.1_windows_x64.nipkg
+Homepage: https://github.com/NI-Measurement-Plug-Ins/audio-dac
 MD5sum: 6d6174d296277ef0b53d2e2128963247
 Maintainer: Github Community <email@mycompany.com>
 Package: community-audio-dac
@@ -410,8 +410,8 @@ CompatibilityVersion: 240000
 Description: mycompany-myproduct
   Single tone and frequency sweep measurements for audio dac
 DisplayName: audio-dac
-Filename: https://github.com/NI-MeasurementLink-Plug-Ins/audio-dac/releases/download/v1.0.0.3/community-audio-dac_1.0.0.3_windows_x64.nipkg
-Homepage: https://github.com/NI-MeasurementLink-Plug-Ins/audio-dac
+Filename: https://github.com/NI-Measurement-Plug-Ins/audio-dac/releases/download/v1.0.0.3/community-audio-dac_1.0.0.3_windows_x64.nipkg
+Homepage: https://github.com/NI-Measurement-Plug-Ins/audio-dac
 MD5sum: c75a13e31a4efb908b0cd0686c61c975
 Maintainer: Github Community <email@mycompany.com>
 Package: community-audio-dac
@@ -429,8 +429,8 @@ CompatibilityVersion: 240000
 Description: mycompany-myproduct
   Linearity INL-DNL measurements for DAC
 DisplayName: dac
-Filename: https://github.com/NI-MeasurementLink-Plug-Ins/dac/releases/download/v1.0.0.1/community-dac_1.0.0.1_windows_x64.nipkgkg
-Homepage: https://github.com/NI-MeasurementLink-Plug-Ins/dac
+Filename: https://github.com/NI-Measurement-Plug-Ins/dac/releases/download/v1.0.0.1/community-dac_1.0.0.1_windows_x64.nipkgkg
+Homepage: https://github.com/NI-Measurement-Plug-Ins/dac
 MD5sum: 80e8d34da2b4884ad2e141c942d6023f
 Maintainer: Github Community <email@mycompany.com>
 Package: community-dac
@@ -449,8 +449,8 @@ Depends: ni-labview-2021-runtime-engine (>=21.1.2.49154-0+f2)
 Description: community-pmic-labview
   Measurements for PMIC using MeasurementLink
 DisplayName: PMIC MeasurementLink Plug-In (LabVIEW)
-Filename: https://github.com/NI-MeasurementLink-Plug-Ins/pmic-labview/releases/download/v1.0.0.4/community-pmic-labview_1.0.0.4_windows_x64.nipkg
-Homepage: https://github.com/NI-MeasurementLink-Plug-Ins/pmic-labview
+Filename: https://github.com/NI-Measurement-Plug-Ins/pmic-labview/releases/download/v1.0.0.4/community-pmic-labview_1.0.0.4_windows_x64.nipkg
+Homepage: https://github.com/NI-Measurement-Plug-Ins/pmic-labview
 MD5sum: 1cc40332c3056c0c7539a96a7707b2ef
 Maintainer: GitHub Community <email@mycompany.com>
 Package: community-pmic-labview
@@ -471,8 +471,8 @@ Depends: ni-labview-2021-runtime-engine (>=21.1.2.49154-0+f2)
 Description: community-pmic-python
   Measurements for PMIC using MeasurementLink
 DisplayName: PMIC MeasurementLink Plug-In (Python)
-Filename: https://github.com/NI-MeasurementLink-Plug-Ins/pmic-python/releases/download/v1.0.0.2/community-pmic-python_1.0.0.2_windows_x64.nipkg
-Homepage: https://github.com/NI-MeasurementLink-Plug-Ins/pmic-python
+Filename: https://github.com/NI-Measurement-Plug-Ins/pmic-python/releases/download/v1.0.0.2/community-pmic-python_1.0.0.2_windows_x64.nipkg
+Homepage: https://github.com/NI-Measurement-Plug-Ins/pmic-python
 MD5sum: 276a9dfa992fdbd1ac0bfa151e130bb6
 Maintainer: GitHub Community <email@mycompany.com>
 Package: community-pmic-python

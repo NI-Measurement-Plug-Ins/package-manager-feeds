@@ -486,3 +486,37 @@ UserVisible: yes
 Version: 1.0.0.2
 VisibleForRuntimeDeployment: no
 
+Architecture: windows_x64
+Built-Using: nipkg
+CompatibilityVersion: 240500
+Description: Measurement plug-in example to perform a measurement using an DMM.
+DisplayName: DMM Measurement HAL (Py)
+Filename: https://github.com/NI-Measurement-Plug-Ins/abstraction-layer-python/releases/download/1.0.0/dmm-measurement-hal_1.0.0_windows_x64.nipkg
+MD5sum: 4922b3048a1c273cd340f38f21639fbe
+Maintainer: National Instruments
+Package: dmm-measurement-hal
+Plugin: file
+Section: Add-Ons
+Size: 13618
+StoreProduct: no
+UserVisible: yes
+Version: 1.0.0
+VisibleForRuntimeDeployment: no
+
+Architecture: windows_x64
+Built-Using: nipkg
+CompatibilityVersion: 240500
+Description: Measurement plug-in example to source DC voltage using NI SMU and measure the same using an NI SMU or DMM.
+DisplayName: Source Measure DC Voltage FAL (Py)
+Filename: https://github.com/NI-Measurement-Plug-Ins/abstraction-layer-python/releases/download/1.0.0/source-measure-dc-voltage-fal_1.0.0_windows_x64.nipkg
+MD5sum: 70a92aaacf47bf3f163f68e1f11199dd
+Maintainer: National Instruments
+Package: source-measure-dc-voltage-fal
+Plugin: file
+Section: Add-Ons
+Size: 15258
+StoreProduct: no
+UserVisible: yes
+Version: 1.0.0
+VisibleForRuntimeDeployment: no
+

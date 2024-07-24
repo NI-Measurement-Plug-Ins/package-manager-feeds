@@ -520,3 +520,37 @@ UserVisible: yes
 Version: 1.0.0
 VisibleForRuntimeDeployment: no
 
+Architecture: windows_x64
+Built-Using: nipkg
+CompatibilityVersion: 240500
+Description: mycompany-myproduct
+DisplayName: DmmMeasurementHAL
+Filename: https://github.com/NI-Measurement-Plug-Ins/abstraction-layer-labview/releases/download/v1.0.0.1/ni-dmm-measurement-hal_1.0.0.1_windows_x64.nipkg
+MD5sum: 1f365c4a53341906fec231c007b5ba55
+Maintainer: Github Community <santhosh.ramaraj@ni.com>
+Package: ni-dmm-measurement-hal
+Plugin: file
+Section: Add-Ons
+Size: 20029564
+StoreProduct: no
+UserVisible: yes
+Version: 1.0.0.1
+VisibleForRuntimeDeployment: no
+
+Architecture: windows_x64
+Built-Using: nipkg
+CompatibilityVersion: 240500
+Description: mycompany-myproduct
+DisplayName: SourceMeasureDCVoltage
+Filename: https://github.com/NI-Measurement-Plug-Ins/abstraction-layer-labview/releases/download/v1.0.0.1/ni-source-measure-dcvoltage_1.0.0.1_windows_x64.nipkg
+MD5sum: a56187d21b56d486fce48d9dbdf9d9fc
+Maintainer: Github Community <santhosh.ramaraj@ni.com>
+Package: ni-source-measure-dcvoltage
+Plugin: file
+Section: Add-Ons
+Size: 20213770
+StoreProduct: no
+UserVisible: yes
+Version: 1.0.0.1
+VisibleForRuntimeDeployment: no
+

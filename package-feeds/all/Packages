@@ -520,3 +520,39 @@ UserVisible: yes
 Version: 1.0.0
 VisibleForRuntimeDeployment: no
 
+Architecture: windows_x64
+Built-Using: nipkg
+CompatibilityVersion: 240500
+Description: HAL Plug-ins
+  Measurement plug-in example to perform a measurement using an DMM
+DisplayName: DMM Measurement HAL LabVIEW
+Filename: https://github.com/NI-Measurement-Plug-Ins/abstraction-layer-labview/releases/download/v1.0.0.1/dmm-measurement-hal-lv_1.0.0.1_windows_x64.nipkg
+MD5sum: df963732c22b4bc631eba81cc7d63e4f
+Maintainer: National Instruments <santhosh.ramaraj@ni.com>
+Package: dmm-measurement-hal-lv
+Plugin: file
+Section: Add-Ons
+Size: 20029512
+StoreProduct: no
+UserVisible: yes
+Version: 1.0.0.1
+VisibleForRuntimeDeployment: no
+
+Architecture: windows_x64
+Built-Using: nipkg
+CompatibilityVersion: 240500
+Description: FAL Plug-ins
+  Measurement plug-in example to source DC voltage using NI SMU and measure the same using an NI SMU or DMM.
+DisplayName: Source Measure DC Voltage FAL (LabVIEW)
+Filename: https://github.com/NI-Measurement-Plug-Ins/abstraction-layer-labview/releases/download/v1.0.0.1/source-measure-dc-voltage-fal-lv_1.0.0.1_windows_x64.nipkg
+MD5sum: 8e355a992f4a5183d3875969364966b6
+Maintainer: National Instruments <santhosh.ramaraj@ni.com>
+Package: source-measure-dc-voltage-fal-lv
+Plugin: file
+Section: Add-Ons
+Size: 20203804
+StoreProduct: no
+UserVisible: yes
+Version: 1.0.0.1
+VisibleForRuntimeDeployment: no
+

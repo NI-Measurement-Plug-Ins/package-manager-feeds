@@ -556,3 +556,25 @@ UserVisible: yes
 Version: 1.0.0.1
 VisibleForRuntimeDeployment: no
 
+Architecture: windows_x64
+Built-Using: nipkg
+CompatibilityVersion: 240500
+Depends: ni-labview-2021-runtime-engine (>=21.1.6.49156-0+f4)
+Description: community-pmic-labview
+  Measurements for PMIC using Measurement Plug-In SDK
+DisplayName: PMIC Measurement Plug-In (LabVIEW)
+Filename: https://github.com/NI-Measurement-Plug-Ins/pmic-labview/releases/download/v1.0.0.6/community-pmic-labview_1.0.0.6_windows_x64.nipkg
+Homepage: https://github.com/NI-Measurement-Plug-Ins/pmic-labview
+MD5sum: 62611c968408985e6a0d0fd167d07ced
+Maintainer: GitHub Community <email@mycompany.com>
+Package: community-pmic-labview
+Plugin: file
+ReleaseNotes: 
+  Supports Efficiency and Load Regulation, Line Regulation, Load Transient Response, Line Transient Respone, Ripple, Crosstalk and Multi-Channel Output Voltage Accuracy Measurements, Ganging Measurements for Single Point, Sweep, Waveform Mode, Efficiency and Load Regulation, Line Regulation and Load Transient Response
+Section: Add-Ons
+Size: 240252726
+StoreProduct: yes
+UserVisible: yes
+Version: 1.0.0.6
+VisibleForRuntimeDeployment: no
+

@@ -640,3 +640,21 @@ UserVisible: yes
 Version: 1.0.0.2
 VisibleForRuntimeDeployment: no
 
+Architecture: windows_x64
+Built-Using: nipkg
+CompatibilityVersion: 240500
+Description: FAL Plug-ins
+  Measurement plug-in example to source DC voltage using NI SMU and measure the same using an NI SMU or DMM.
+DisplayName: Source Measure DC Voltage (LabVIEW)
+Filename: https://github.com/NI-Measurement-Plug-Ins/abstraction-layer-labview/releases/download/v1.0.0.2/source-measure-dc-voltage-fal-lv_1.0.0.2_windows_x64.nipkg
+MD5sum: fc139447adabef17e762659b38357be9
+Maintainer: National Instruments <email@mycompany.com>
+Package: source-measure-dc-voltage-fal-lv
+Plugin: file
+Section: Add-Ons
+Size: 18555358
+StoreProduct: no
+UserVisible: yes
+Version: 1.0.0.2
+VisibleForRuntimeDeployment: no
+

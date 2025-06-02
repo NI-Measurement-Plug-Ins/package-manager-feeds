@@ -1,6 +1,7 @@
-1743487385 https://github.com/NI-Measurement-Plug-Ins/pmic-labview/releases/download/v1.0.0.8/community-pmic-labview_1.0.0.8_windows_x64.nipkg
+1748845039 https://github.com/NI-Measurement-Plug-Ins/abstraction-layer-labview/releases/download/v1.0.0.2/source-measure-dc-voltage-fal-lv_1.0.0.2_windows_x64.nipkg
 1722233427 https://github.com/NI-Measurement-Plug-Ins/abstraction-layer-labview/releases/download/v1.0.0.1/dmm-measurement-hal-lv_1.0.0.1_windows_x64.nipkg
 1722233482 https://github.com/NI-Measurement-Plug-Ins/abstraction-layer-labview/releases/download/v1.0.0.1/source-measure-dc-voltage-fal-lv_1.0.0.1_windows_x64.nipkg
+1748844958 https://github.com/NI-Measurement-Plug-Ins/abstraction-layer-labview/releases/download/v1.0.0.2/dmm-measurement-hal-lv_1.0.0.2_windows_x64.nipkg
 1721830277 https://github.com/NI-Measurement-Plug-Ins/abstraction-layer-python/releases/download/1.0.0/dmm-measurement-hal_1.0.0_windows_x64.nipkg
 1721830392 https://github.com/NI-Measurement-Plug-Ins/abstraction-layer-python/releases/download/1.0.0/source-measure-dc-voltage-fal_1.0.0_windows_x64.nipkg
 1712226685 https://github.com/NI-Measurement-Plug-Ins/adc/releases/download/v1.0.0.4/community-adc-measurements_1.0.0.4_windows_x64.nipkg
@@ -26,6 +27,7 @@
 1719411870 https://github.com/NI-Measurement-Plug-Ins/pmic-labview/releases/download/v1.0.0.4/community-pmic-labview_1.0.0.4_windows_x64.nipkg
 1726840104 https://github.com/NI-Measurement-Plug-Ins/pmic-labview/releases/download/v1.0.0.6/community-pmic-labview_1.0.0.6_windows_x64.nipkg
 1733140080 https://github.com/NI-Measurement-Plug-Ins/pmic-labview/releases/download/v1.0.0.7/community-pmic-labview_1.0.0.7_windows_x64.nipkg
+1743487385 https://github.com/NI-Measurement-Plug-Ins/pmic-labview/releases/download/v1.0.0.8/community-pmic-labview_1.0.0.8_windows_x64.nipkg
 1713864042 https://github.com/NI-Measurement-Plug-Ins/pmic-python/releases/download/v1.0.0.0/community-pmic-python_1.0.0.0_windows_x64.nipkg
 1713895939 https://github.com/NI-Measurement-Plug-Ins/pmic-python/releases/download/v1.0.0.1/community-pmic-python_1.0.0.1_windows_x64.nipkg
 1719412911 https://github.com/NI-Measurement-Plug-Ins/pmic-python/releases/download/v1.0.0.2/community-pmic-python_1.0.0.2_windows_x64.nipkg

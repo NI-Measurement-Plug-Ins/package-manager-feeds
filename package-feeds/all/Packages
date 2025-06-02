@@ -622,3 +622,21 @@ UserVisible: yes
 Version: 1.0.0.8
 VisibleForRuntimeDeployment: no
 
+Architecture: windows_x64
+Built-Using: nipkg
+CompatibilityVersion: 240500
+Description: HAL Plug-ins
+  Measurement plug-in example to perform a measurement using an DMM
+DisplayName: DMM Measurement (LabVIEW)
+Filename: https://github.com/NI-Measurement-Plug-Ins/abstraction-layer-labview/releases/download/v1.0.0.2/dmm-measurement-hal-lv_1.0.0.2_windows_x64.nipkg
+MD5sum: d1d90cf75d878174f37f73738779affe
+Maintainer: National Instruments <email@mycompany.com>
+Package: dmm-measurement-hal-lv
+Plugin: file
+Section: Add-Ons
+Size: 18367338
+StoreProduct: no
+UserVisible: yes
+Version: 1.0.0.2
+VisibleForRuntimeDeployment: no
+

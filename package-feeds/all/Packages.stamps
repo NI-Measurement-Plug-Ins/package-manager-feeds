@@ -1,4 +1,4 @@
-1758893737 https://github.com/NI-Measurement-Plug-Ins/pmic-labview/releases/download/v1.0.0.10/community-pmic-labview_1.0.0.10_windows_x64.nipkg
+1759498959 https://github.com/NI-Measurement-Plug-Ins/adc/releases/download/v1.0.0.5/community-adc-measurements_1.0.0.5_windows_x64.nipkg
 1722233427 https://github.com/NI-Measurement-Plug-Ins/abstraction-layer-labview/releases/download/v1.0.0.1/dmm-measurement-hal-lv_1.0.0.1_windows_x64.nipkg
 1722233482 https://github.com/NI-Measurement-Plug-Ins/abstraction-layer-labview/releases/download/v1.0.0.1/source-measure-dc-voltage-fal-lv_1.0.0.1_windows_x64.nipkg
 1748844958 https://github.com/NI-Measurement-Plug-Ins/abstraction-layer-labview/releases/download/v1.0.0.2/dmm-measurement-hal-lv_1.0.0.2_windows_x64.nipkg
@@ -23,6 +23,7 @@
 1706820315 https://github.com/NI-Measurement-Plug-Ins/class-d-amplifier/releases/download/v1.0.0.6/community-classdamplifier_1.0.0.6_windows_x64.nipkg
 1718923573 https://github.com/NI-Measurement-Plug-Ins/dac/releases/download/v1.0.0.1/community-dac_1.0.0.1_windows_x64.nipkgkg
 1714081053 https://github.com/NI-Measurement-Plug-Ins/pcba-fct/releases/download/v1.0.0.0/ni-pcba-measurements_1.0.0.0_windows_x64.nipkg
+1758893737 https://github.com/NI-Measurement-Plug-Ins/pmic-labview/releases/download/v1.0.0.10/community-pmic-labview_1.0.0.10_windows_x64.nipkg
 1713788197 https://github.com/NI-Measurement-Plug-Ins/pmic-labview/releases/download/v1.0.0.2/community-pmic-labview_1.0.0.2_windows_x64.nipkg
 1713854962 https://github.com/NI-Measurement-Plug-Ins/pmic-labview/releases/download/v1.0.0.3/community-pmic-labview_1.0.0.3_windows_x64.nipkg
 1719411870 https://github.com/NI-Measurement-Plug-Ins/pmic-labview/releases/download/v1.0.0.4/community-pmic-labview_1.0.0.4_windows_x64.nipkg

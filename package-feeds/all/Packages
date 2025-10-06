@@ -703,3 +703,21 @@ UserVisible: yes
 Version: 1.0.0.10
 VisibleForRuntimeDeployment: no
 
+Architecture: windows_x64
+Built-Using: nipkg
+CompatibilityVersion: 250300
+Depends: ni-labview-2021-runtime-engine (>=21.1.6.49156-0+f4)
+Description: community-adc-measurements
+DisplayName: adc-measurements
+Filename: https://github.com/NI-Measurement-Plug-Ins/adc/releases/download/v1.0.0.5/community-adc-measurements_1.0.0.5_windows_x64.nipkg
+MD5sum: 0f1902530dedb4c090a53ca033682a66
+Maintainer: MyCompany <email@mycompany.com>
+Package: community-adc-measurements
+Plugin: file
+Section: Add-Ons
+Size: 135066414
+StoreProduct: yes
+UserVisible: yes
+Version: 1.0.0.5
+VisibleForRuntimeDeployment: no
+
